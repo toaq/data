@@ -1,3 +1,5 @@
+# Not currently used. See [the kuna repo](https://github.com/toaq/kuna)'s data directory.
+
 # `data`
 
 This repository contains various lexical data for use by Toaq
